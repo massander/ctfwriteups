@@ -1,0 +1,1 @@
+MetaCTF{was_it_a_magic_trick_or_magic_bytes?}
